@@ -1,0 +1,344 @@
+LEIXEN MEMORY CHANNEL
+
+
+TYPE0 VV-898ST1.05
+BAND 136-174MHz
+0 OFF
+2 2
+1 TO
+3 30
+4 12.5KHz
+0 CTC/DCS
+0 MR
+1 Freq. MR
+0 MR
+1 Freq. MR
+4 4
+2 User-defined
+
+2 CONT
+0 K+S
+1 A Channel
+1 Open Beep
+0 Roger Beep
+0 Key Lock
+0 CT/DCS Busy Lock
+1 Alarm Key
+1 Battery Save
+1 Key Beep
+1 PTT A=B
+1 Small Font
+0 Band Select
+1 OFF
+144
+146
+430
+440
+1 Alias Enable
+0 TX Stop
+1 DW
+1 FM Enable
+1 FM DW
+1 FM Scan
+1 Keypad MIC
+1 Open
+100
+100
+0
+600
+0
+0 ACK Decode
+1 DTMF Side Tone
+1 Display PTT ID
+0 Voice ID
+1 End of TX
+123
+123
+5 500
+0 Female voice in Chinese
+5
+1001
+1002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 A
+1000
+30
+1 DTMF Beep
+1 Auto ACK
+1 Strip CTC/DCS
+1 Activation Enable
+
+1 TX Inhibit Activation
+
+1 TX RX Inhibit Activation
+1.5
+6 SCAN
+13 A/B
+7 TX Power
+9 VFO/MR
+6 SCAN
+0 DC
+0 DC
+1 MENU Enable 
+0 Lease Activation
+1 Remainder Prompt
+2099-10-01
+2099-10-01
+0 Functiom Enable
+1 Wireless Start
+80899
+0 Master Enable
+20
+3 4
+2 3S
+1 VOX Inhibit on Receive
+87.500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CH001 | 136.00000 | OFF | 136.00000 | OFF | High | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF |  | ON | OFF | OFF |  | 
+CH002 | 245.00000 | OFF | 245.00000 | OFF | High | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF |  | ON | OFF | OFF |  | 
+CH003 | 400.00000 | OFF | 400.00000 | OFF | High | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF |  | ON | OFF | OFF |  | 
+CH004 | 146.52000 | OFF | 146.52000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM10D | ON | OFF | OFF |  | 
+CH005 | 145.27000 | OFF | 144.67000 | 100.0 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM11 | ON | OFF | OFF |  | 
+CH006 | 145.27000 | OFF | 145.27000 | 100.0 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM11D | ON | OFF | OFF |  | 
+CH007 | 145.43000 | OFF | 144.83000 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM12 | ON | OFF | OFF |  | 
+CH008 | 145.43000 | OFF | 145.43000 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM12D | ON | OFF | OFF |  | 
+CH009 | 146.80500 | OFF | 147.40500 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM13 | ON | OFF | OFF |  | 
+CH010 | 146.80500 | OFF | 146.80500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM13D | ON | OFF | OFF |  | 
+CH011 | 147.01500 | OFF | 146.41500 | 100.0 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM14 | ON | OFF | OFF |  | 
+CH012 | 147.01500 | OFF | 146.41500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM14D | ON | OFF | OFF |  | 
+CH013 | 147.50500 | D226N | 145.50500 | D226N | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM15 | ON | OFF | OFF |  | 
+CH014 | 147.50500 | OFF | 147.50500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM15D | ON | OFF | OFF |  | 
+CH015 | 147.58500 | OFF | 147.58500 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM16 | ON | OFF | OFF |  | 
+CH016 | 147.58500 | OFF | 147.58500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VHAM16D | ON | OFF | OFF |  | 
+CH017 | 446.00000 | OFF | 446.00000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UHAM40D | ON | OFF | OFF |  | 
+CH018 | 443.07500 | OFF | 448.07500 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UHAM41 | ON | OFF | OFF |  | 
+CH019 | 443.07500 | OFF | 443.07500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UHAM41D | ON | OFF | OFF |  | 
+CH020 | 445.66250 | OFF | 445.66250 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UHAM42 | ON | OFF | OFF |  | 
+CH021 | 445.66250 | OFF | 445.66250 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UHAM42D | ON | OFF | OFF |  | 
+CH022 | 144.91000 | OFF | 144.91000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | CAPTN0D | ON | OFF | OFF |  | 
+CH023 | 146.53500 | OFF | 146.53500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | CAPTN1D | ON | OFF | OFF |  | 
+CH024 | 146.59500 | OFF | 146.59500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | CAPTN2D | ON | OFF | OFF |  | 
+CH025 | 147.51000 | 100.0 | 147.51000 | 100.0 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | CAPTN3D | ON | OFF | OFF |  | 
+CH026 | 145.59000 | OFF | 145.59000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VPKT11D | ON | OFF | OFF |  | 
+CH027 | 145.75000 | OFF | 145.75000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VPKT12D | ON | OFF | OFF |  | 
+CH028 | 145.79000 | OFF | 145.79000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | VPKT13D | ON | OFF | OFF |  | 
+CH029 | 144.39000 | OFF | 144.39000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | APRS | ON | OFF | OFF |  | 
+CH030 | 439.60000 | OFF | 444.60000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UPKT41D | ON | OFF | OFF |  | 
+CH031 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH032 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH033 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH034 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH035 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH036 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH037 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH038 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH039 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH040 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH041 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH042 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH043 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH044 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH045 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH046 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH047 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH048 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH049 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH050 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH051 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH052 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH053 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH054 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH055 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH056 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH057 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH058 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH059 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH060 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH061 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH062 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH063 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH064 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH065 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH066 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH067 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH068 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH069 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH070 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH071 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH072 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH073 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH074 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH075 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH076 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH077 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH078 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH079 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH080 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH081 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH082 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH083 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH084 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH085 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH086 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH087 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH088 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH089 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH090 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH091 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH092 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH093 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH094 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH095 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH096 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH097 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH098 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH099 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH101 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH102 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH001 | 136.00000 | OFF | 136.00000 | OFF | High | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF |  | OFF | OFF | OFF |  | 
+CH002 | 245.00000 | OFF | 245.00000 | OFF | High | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF |  | OFF | OFF | OFF |  | 
+CH003 | 400.00000 | OFF | 400.00000 | OFF | High | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF |  | OFF | OFF | OFF |  | 
+CH004 | 462.57500 | OFF | 462.57500 | 107.2 | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | UGMRS41 | ON | OFF | OFF |  | 
+CH005 | 451.03750 | OFF | 456.03750 | 67.0 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | CERT1 | ON | OFF | OFF |  | 
+CH006 | 451.03750 | OFF | 451.03750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | CERT1D | ON | OFF | OFF |  | 
+CH007 | 451.62500 | OFF | 451.62500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | CERT2D | ON | OFF | OFF |  | 
+CH008 | 454.47500 | OFF | 454.47500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | CERT3D | ON | OFF | OFF |  | 
+CH009 | 462.56250 | OFF | 462.56250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS1D | ON | OFF | OFF |  | 
+CH010 | 462.58750 | OFF | 462.58750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS2D | ON | OFF | OFF |  | 
+CH011 | 462.61250 | OFF | 462.61250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS3D | ON | OFF | OFF |  | 
+CH012 | 462.63750 | OFF | 462.63750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS4D | ON | OFF | OFF |  | 
+CH013 | 462.66250 | OFF | 462.66250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS5D | ON | OFF | OFF |  | 
+CH014 | 462.68750 | OFF | 462.68750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS6D | ON | OFF | OFF |  | 
+CH015 | 462.71250 | OFF | 462.71250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS7D | ON | OFF | OFF |  | 
+CH016 | 467.56250 | OFF | 467.56250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS8D | ON | OFF | OFF |  | 
+CH017 | 467.58750 | OFF | 467.58750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS9D | ON | OFF | OFF |  | 
+CH018 | 467.61250 | OFF | 467.61250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS10D | ON | OFF | OFF |  | 
+CH019 | 467.63750 | OFF | 467.63750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS11D | ON | OFF | OFF |  | 
+CH020 | 467.66250 | OFF | 467.66250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS12D | ON | OFF | OFF |  | 
+CH021 | 467.68750 | OFF | 467.68750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS13D | ON | OFF | OFF |  | 
+CH022 | 467.71250 | OFF | 467.71250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS14D | ON | OFF | OFF |  | 
+CH023 | 462.55000 | OFF | 462.55000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS15D | ON | OFF | OFF |  | 
+CH024 | 462.57500 | OFF | 462.57500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS16D | ON | OFF | OFF |  | 
+CH025 | 462.60000 | OFF | 462.60000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS17D | ON | OFF | OFF |  | 
+CH026 | 462.62500 | OFF | 462.62500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS18D | ON | OFF | OFF |  | 
+CH027 | 462.65000 | OFF | 462.65000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS19D | ON | OFF | OFF |  | 
+CH028 | 462.67500 | OFF | 462.67500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS20D | ON | OFF | OFF |  | 
+CH029 | 462.70000 | OFF | 462.70000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS21D | ON | OFF | OFF |  | 
+CH030 | 462.72500 | OFF | 462.72500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | FRS22D | ON | OFF | OFF |  | 
+CH031 | 462.56250 | OFF | 462.56250 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS1D | ON | OFF | OFF |  | 
+CH032 | 462.58750 | OFF | 462.58750 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS2D | ON | OFF | OFF |  | 
+CH033 | 462.61250 | OFF | 462.61250 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS3D | ON | OFF | OFF |  | 
+CH034 | 462.63750 | OFF | 462.63750 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS4D | ON | OFF | OFF |  | 
+CH035 | 462.66250 | OFF | 462.66250 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS5D | ON | OFF | OFF |  | 
+CH036 | 462.68750 | OFF | 462.68750 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS6D | ON | OFF | OFF |  | 
+CH037 | 462.71250 | OFF | 462.71250 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS7D | ON | OFF | OFF |  | 
+CH038 | 467.56250 | OFF | 467.56250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS8D | ON | OFF | OFF |  | 
+CH039 | 467.58750 | OFF | 467.58750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS9D | ON | OFF | OFF |  | 
+CH040 | 467.61250 | OFF | 467.61250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS10D | ON | OFF | OFF |  | 
+CH041 | 467.63750 | OFF | 467.63750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS11D | ON | OFF | OFF |  | 
+CH042 | 467.66250 | OFF | 467.66250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS12D | ON | OFF | OFF |  | 
+CH043 | 467.68750 | OFF | 467.68750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS13D | ON | OFF | OFF |  | 
+CH044 | 467.71250 | OFF | 467.71250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS14D | ON | OFF | OFF |  | 
+CH045 | 462.55000 | OFF | 462.55000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS15D | ON | OFF | OFF |  | 
+CH046 | 462.57500 | OFF | 462.57500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS16D | ON | OFF | OFF |  | 
+CH047 | 462.60000 | OFF | 462.60000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS17D | ON | OFF | OFF |  | 
+CH048 | 462.62500 | OFF | 462.62500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS18D | ON | OFF | OFF |  | 
+CH049 | 462.65000 | OFF | 462.65000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS19D | ON | OFF | OFF |  | 
+CH050 | 462.67500 | OFF | 462.67500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS20D | ON | OFF | OFF |  | 
+CH051 | 462.70000 | OFF | 462.70000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS21D | ON | OFF | OFF |  | 
+CH052 | 462.72500 | OFF | 462.72500 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | GMRS22D | ON | OFF | OFF |  | 
+CH053 | 151.82000 | OFF | 151.82000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | MURS1D | ON | OFF | OFF |  | 
+CH054 | 151.88000 | OFF | 151.88000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | MURS2D | ON | OFF | OFF |  | 
+CH055 | 151.94000 | OFF | 151.94000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | MURS3D | ON | OFF | OFF |  | 
+CH056 | 154.57000 | OFF | 154.57000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | MURS4D | ON | OFF | OFF |  | 
+CH057 | 154.60000 | OFF | 154.60000 | OFF | Low | Wide | ON | OFF | ON | OFF | OFF | OFF | OFF | MURS5D | ON | OFF | OFF |  | 
+CH058 | 155.75250 | OFF | 155.75250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VCALL10 | ON | OFF | OFF |  | 
+CH059 | 151.13750 | OFF | 151.13750 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC11 | ON | OFF | OFF |  | 
+CH060 | 154.45250 | OFF | 154.45250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC12 | ON | OFF | OFF |  | 
+CH061 | 158.73750 | OFF | 158.73750 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC13 | ON | OFF | OFF |  | 
+CH062 | 159.47250 | OFF | 159.47250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC14 | ON | OFF | OFF |  | 
+CH063 | 161.85000 | OFF | 157.25000 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC17 | ON | OFF | OFF |  | 
+CH064 | 161.85000 | OFF | 161.85000 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC17D | ON | OFF | OFF |  | 
+CH065 | 159.47250 | OFF | 167.80750 | 136.5 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC33 | ON | OFF | OFF |  | 
+CH066 | 158.73750 | OFF | 163.02250 | 136.5 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC34 | ON | OFF | OFF |  | 
+CH067 | 159.47250 | OFF | 160.20750 | 136.5 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC35 | ON | OFF | OFF |  | 
+CH068 | 151.13750 | OFF | 142.80250 | 136.5 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC36 | ON | OFF | OFF |  | 
+CH069 | 154.45250 | OFF | 150.16750 | 136.5 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC37 | ON | OFF | OFF |  | 
+CH070 | 158.73750 | OFF | 158.00250 | 136.5 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VTAC38 | ON | OFF | OFF |  | 
+CH071 | 155.16000 | OFF | 155.16000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VSAR16 | ON | OFF | OFF |  | 
+CH072 | 154.28000 | OFF | 154.28000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VFIRE21 | ON | OFF | OFF |  | 
+CH073 | 154.26500 | OFF | 154.26500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VFIRE22 | ON | OFF | OFF |  | 
+CH074 | 154.29500 | OFF | 154.29500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VFIRE23 | ON | OFF | OFF |  | 
+CH075 | 154.27250 | OFF | 154.27250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VFIRE24 | ON | OFF | OFF |  | 
+CH076 | 154.28750 | OFF | 154.28750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VFIRE25 | ON | OFF | OFF |  | 
+CH077 | 154.30250 | OFF | 154.30250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VFIRE26 | ON | OFF | OFF |  | 
+CH078 | 155.34000 | OFF | 155.34000 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VMED28 | ON | OFF | OFF |  | 
+CH079 | 155.34750 | OFF | 155.34750 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VMED29 | ON | OFF | OFF |  | 
+CH080 | 155.47500 | OFF | 155.47500 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VLAW31 | ON | OFF | OFF |  | 
+CH081 | 155.48250 | OFF | 155.48250 | OFF | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | VLAW32 | ON | OFF | OFF |  | 
+CH082 | 453.21250 | OFF | 458.21250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UCALL40 | ON | OFF | OFF |  | 
+CH083 | 453.21250 | OFF | 453.21250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UCAL40D | ON | OFF | OFF |  | 
+CH084 | 453.46250 | OFF | 458.46250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UTAC41 | ON | OFF | OFF |  | 
+CH085 | 453.46250 | OFF | 453.46250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UTAC41D | ON | OFF | OFF |  | 
+CH086 | 453.71250 | OFF | 458.71250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UTAC42 | ON | OFF | OFF |  | 
+CH087 | 453.71250 | OFF | 453.71250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UTAC42D | ON | OFF | OFF |  | 
+CH088 | 453.86250 | OFF | 458.86250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UTAC43 | ON | OFF | OFF |  | 
+CH089 | 453.86250 | OFF | 453.86250 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | UTAC43D | ON | OFF | OFF |  | 
+CH090 | 151.08500 | OFF | 158.98500 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GAIOP1 | ON | OFF | OFF |  | 
+CH091 | 151.08500 | OFF | 151.08500 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GAIOP1D | ON | OFF | OFF |  | 
+CH092 | 151.07000 | OFF | 159.04500 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GAIOP2 | ON | OFF | OFF |  | 
+CH093 | 151.07000 | OFF | 151.07000 | 156.7 | Low | Narrow | ON | OFF | ON | OFF | OFF | OFF | OFF | GAIOP2D | ON | OFF | OFF |  | 
+CH094 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH095 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH096 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH097 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH098 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH099 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH100 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH101 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+CH102 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
