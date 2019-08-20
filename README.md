@@ -4,7 +4,7 @@ Cherokee County ARES Leixen VV-898 Code Plugs
 BETA RELEASE - Cherokee ARES Radio Code Plug for the Leixen VV-898. If you have a Leixen VV-898 please make a backup of your current configuration and load this file. Please let me know of any changes that need to be made or if any of the information is incorrectly programmed. You will have to load this via CHIRP and make sure you load the leixen_dualbank.py module. This is NOT an easy radio to program.
 <BR /><BR />
 The most recent programming software is V1.07
-<BR />
+<BR /><BR />
 As a reminder:
 <BR />
 -TAC1 is VHAM12
